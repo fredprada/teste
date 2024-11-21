@@ -1,0 +1,16 @@
+[
+  {
+    "name": "fred",
+    "age": 27,
+    "country": "BR",
+    "occupation": "BI analyst",
+    "salary": 2000
+  },
+  {
+    "name": "pudim",
+    "age": 2,
+    "country": "BR",
+    "occupation": "Engineer",
+    "salary": 31000
+  }
+]
