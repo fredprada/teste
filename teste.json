@@ -1,44 +1,16 @@
 [
   {
-    "name": "Leanne Graham",
-    "age": 38,
-    "country": "USA",
-    "occupation": "Devops Engineer",
-    "salary": 3000
-  },
-  {
-    "name": "Ervin Howell",
+    "name": "fred",
     "age": 27,
-    "country": "USA",
-    "occupation": "Software Engineer",
-    "salary": 2300
+    "country": "BR",
+    "occupation": "BI analyst",
+    "salary": 2000
   },
   {
-    "name": "Clementine Bauch",
-    "age": 17,
-    "country": "Canada",
-    "occupation": "Student",
-    "salary": null
-  },
-  {
-    "name": "Patricia Lebsack",
-    "age": 42,
-    "country": "UK",
-    "occupation": "Software Engineer",
-    "salary": 2800
-  },
-  {
-    "name": "Leanne Bell",
-    "age": 38,
-    "country": "USA",
-    "occupation": "Senior Software Engineer",
-    "salary": 4000
-  },
-  {
-    "name": "Chelsey Dietrich",
-    "age": 32,
-    "country": "USA",
-    "occupation": "Software Engineer",
-    "salary": 3500
+    "name": "pudim",
+    "age": 2,
+    "country": "BR",
+    "occupation": "Engineer",
+    "salary": 31000
   }
 ]
